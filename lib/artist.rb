@@ -5,5 +5,6 @@ class Artist
     @name = name
   end
   
-  def 
+  def songs
+    Song.all.select
 end
