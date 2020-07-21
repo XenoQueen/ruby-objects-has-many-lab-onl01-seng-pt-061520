@@ -21,5 +21,6 @@ class Post
     end
   end
   
-  def 
+  def add_post(post)
+    
 end
